@@ -9,6 +9,7 @@
 
 ### 👨‍💻 About Me
 
+- 🚀 Skilled **MERN** Stack Developer with a specialization in **React.js** for crafting dynamic and responsive front-end experiences.
 - 🔭 I’m currently working on **Freelancing Management System**
 - 🌱 I’m currently learning **Advanced MERN, System Design, and TypeScript**
 - 👯 I’m looking to collaborate on **Open Source MERN projects**

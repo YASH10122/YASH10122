@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Virani</h1>
+  <h1 align="center">Hi 👋, I'm Yash Virani</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 <p align="center">
@@ -57,7 +57,7 @@
 ### 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/yash-virani-6b50ba262/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](mailto:yashvirani8@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat)](https://mail.google.com/mail/u/0/?to=yashvirani8@gmail.com&fs=1&tf=cm)
 
 ---
 

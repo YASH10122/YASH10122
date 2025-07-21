@@ -1,70 +1,62 @@
-# Yash M. Virani
+# 👋 Hi, I'm Yash M. Virani
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YASH_VIRANI-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yash-virani/)
-[![Email](https://img.shields.io/badge/Email-yashvirani8@gmail.com-red?style=flat&logo=gmail)](mailto:yashvirani8@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=vercel)](https://yash-portfolio-swart.vercel.app/)
+🚀 Passionate MERN Stack Developer | 💻 Web Enthusiast | 🧠 Problem Solver
 
-MERN Stack Developer | Problem Solver | Web Enthusiast
+---
 
-## 👨‍💻 Technical Skills
+## 🔧 Tech Stack
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+- **Frontend**: HTML5, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js
+- **Backend**: Node.js, Express.js, .NET (C#), PHP, Python (basic)
+- **Database**: MongoDB, SQL Server
+- **Tools & Others**: Git, GitHub, jQuery, AJAX
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+---
 
-**Database:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+## 📌 About Me
 
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+I am a B.Tech student in Agricultural Information Technology (AIT) at the College of Agricultural Information Technology, Anand (2022-2026). I'm passionate about building responsive, dynamic, and user-centric web applications. I specialize in React.js and have hands-on experience creating RESTful APIs and integrating front-end and back-end systems using the MERN stack.
 
-## 🚀 Featured Projects
+📍 Based in Rajkot, Gujarat  
+📫 Email: yashvirani8@gmail.com  
+🌐 Portfolio: [yash-portfolio-swart.vercel.app](https://yash-portfolio-swart.vercel.app/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/yash-virani-6b50ba262) | [GitHub](https://github.com/YASH10122)
 
-### Home Rental Application
-- **Tech Stack**: MERN Stack (MongoDB, Express, React, Node.js), Redux, SCSS
-- **Description**: Full-stack rental platform with separate user/admin panels featuring property search, booking system, and management tools.
-- **Key Features**: User authentication, property filtering, admin dashboard
+---
 
-### Freelance Management System
-- **Tech Stack**: MERN Stack, Redux
-- **Description**: Comprehensive platform connecting freelancers with clients, featuring three distinct interfaces.
-- **Key Features**: Role-based access, project management, payment integration
+## 🛠️ Projects
 
-### Hands-free Mouse Control System
-- **Tech Stack**: Python, OpenCV, MediaPipe, pyautogui
-- **Description**: Computer vision application enabling mouse control through hand gestures.
-- **Key Features**: Real-time hand tracking, gesture recognition, cursor control
+### 🏠 Home Rental Application
+- **Tech**: Node.js, Express.js, MongoDB, React.js, Redux, SCSS
+- **Overview**: Built a web app with separate user and admin panels for property rental listings and management.
 
-## 🎓 Education
+### 👥 Freelance Management System
+- **Tech**: Node.js, Express.js, MongoDB, React.js, Redux
+- **Overview**: Designed a platform with freelancer, client, and admin panels. Focused on authentication, UI/UX, and data management.
 
-**B.Tech in Agricultural Information Technology**  
-College of Agricultural Information Technology, Anand  
-CGPA: 6.35 | 2022-2026
+### 🖱️ Hands-Free Mouse Control System
+- **Tech**: Python, OpenCV, MediaPipe, pyautogui
+- **Overview**: Developed a gesture-based system to control mouse movements using computer vision.
 
-**Higher Secondary (H.S.C)**  
-SKP School, Rajkot  
-Percentage: 59.93% | 2020-2022
+---
 
-## 📜 Certifications & Achievements
+## 🏆 Achievements & Certifications
 
-- ISRO's course on "Geodata Processing using Python and Machine Learning"
-- Introduction to MERN Stack by Simplilearn
-- Inter-College Volleyball Player
+- 🧠 Introduction to MERN Stack - Simplilearn  
+- 🛰️ ISRO Course on *Geodata Processing using Python and Machine Learning*  
+- 🏐 Inter-College Volleyball Player
 
-## 🌟 About Me
+---
 
-I'm a passionate MERN stack developer specializing in building responsive, dynamic web applications. With strong problem-solving skills and expertise in data structures/algorithms, I create high-performance solutions with clean, scalable code. My projects demonstrate my ability to develop full-stack applications with intuitive interfaces and robust backend systems.
+## 🎯 Areas of Interest
 
-When I'm not coding, you can find me playing volleyball or exploring new technologies!
+- Data Structures & Algorithms  
+- Web Development  
+- Object-Oriented Programming  
+- Problem Solving
+
+---
+
+Feel free to connect with me!  
+⭐️ [GitHub](https://github.com/YASH10122) | 💼 [LinkedIn](https://www.linkedin.com/in/yash-virani-6b50ba262) | 📧 [Email](mailto:yashvirani8@gmail.com)
+

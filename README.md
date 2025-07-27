@@ -22,7 +22,7 @@
 
 ## 🚀 My Projects
 
-### 🌐 [Freelancing Management System](https://github.com/YASH10122)
+### 🌐 Freelancing Management System
 A full-stack platform with user roles: freelancer, client, and admin.
 
 - **Tech Stack:** React, Node.js, Express, MongoDB, Redux  
@@ -65,6 +65,8 @@ A gesture-controlled system using computer vision.
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ### 🗄️ Database

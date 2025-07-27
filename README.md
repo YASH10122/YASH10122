@@ -25,7 +25,7 @@
 ### 🌐 [Freelancing Management System](https://github.com/YASH10122)
 A full-stack platform with user roles: freelancer, client, and admin.
 
-- **Tech Stack:** React, Node.js, Express, MongoDB, Redux
+- **Tech Stack:** React, Node.js, Express, MongoDB, Redux  
 - 💡 Features: Role-based access, service handling, order lifecycle, and secure login
 
 ---
@@ -33,7 +33,7 @@ A full-stack platform with user roles: freelancer, client, and admin.
 ### 🏘️ Home Rental Application
 Dual-panel rental management for users and administrators.
 
-- **Tech Stack:** React, Node.js, Express, MongoDB, SCSS, Redux
+- **Tech Stack:** React, Node.js, Express, MongoDB, SCSS, Redux  
 - 💡 Highlights: Property search UI, admin controls, and listing dashboard
 
 ---
@@ -41,7 +41,7 @@ Dual-panel rental management for users and administrators.
 ### 🖱️ Hands-Free Mouse Control System
 A gesture-controlled system using computer vision.
 
-- **Tech Stack:** Python, OpenCV, MediaPipe, PyAutoGUI
+- **Tech Stack:** Python, OpenCV, MediaPipe, PyAutoGUI  
 - 💡 Highlights: Control mouse with hand gestures — no hardware required
 
 ---
@@ -49,29 +49,16 @@ A gesture-controlled system using computer vision.
 ## 🛠️ Tech Stack & Tools
 
 ### 🚀 Frontend
-<img src="https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3" />
-<img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap" />
+**HTML5** | **CSS3** | **JavaScript** | **React.js** | **Bootstrap** | **Tailwind CSS**
 
 ### ⚙️ Backend
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express" />
-<img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet" />
-<img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php" />
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python" />
+**Node.js** | **Express.js** | **.NET (C#)** | **PHP** | **Python (Basic)**
 
 ### 🗄️ Database
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb" />
-<img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server" />
+**MongoDB** | **SQL Server**
 
-### 🛠 Tools & Utilities
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/-AJAX-00599C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery" />
+### 🧰 Tools & Utilities
+**Git** | **GitHub** | **AJAX** | **jQuery**
 
 ---
 

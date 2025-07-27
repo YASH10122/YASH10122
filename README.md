@@ -1,83 +1,68 @@
-# 👋 Hi, I'm Yash M. Virani
+# 👨‍💻 Yash M. Virani
 
-🚀 Passionate MERN Stack Developer | 💻 Web Enthusiast | 🧠 Problem Solver
-
----
-
-## 🔧 Tech Stack
-
-- **Frontend**: HTML5, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js
-- **Backend**: Node.js, Express.js, .NET (C#), PHP, Python (basic)
-- **Database**: MongoDB, SQL Server
-- **Tools & Others**: Git, GitHub, jQuery, AJAX
+🚀 MERN Stack Developer | 🌐 Full-Stack Web Enthusiast | 🎯 Passionate Problem Solver  
+📍 Rajkot, Gujarat, India  
+📧 yashvirani8@gmail.com | 📱 +91 8200239346  
+🔗 [Portfolio Website](https://yash-portfolio-swart.vercel.app/) • [GitHub](https://github.com/YASH10122) • [LinkedIn](https://www.linkedin.com/in/yash-virani-6b50ba262)
 
 ---
 
-## 📌 About Me
+## 🧠 About Me
 
-I'm currently pursuing my B.Tech in Agricultural Information Technology (AIT) at the College of Agricultural Information Technology, Anand (2022–2026). I specialize in building scalable, responsive, and interactive web applications using the MERN stack.
-
-With a strong foundation in front-end and back-end technologies, I love solving real-world problems with clean, efficient code. My goal is to create seamless user experiences that are both functional and elegant.
-
-📍 Rajkot, Gujarat  
-📫 [yashvirani8@gmail.com](mailto:yashvirani8@gmail.com)  
-🌐 [Portfolio Website](https://yash-portfolio-swart.vercel.app)  
-🔗 [LinkedIn](https://www.linkedin.com/in/yash-virani-6b50ba262) | [GitHub](https://github.com/YASH10122)
+I’m a dedicated and detail-oriented developer skilled in building responsive, dynamic, and user-centric web applications using the **MERN Stack**. I specialize in **React.js** for crafting interactive UI components and have hands-on experience developing and integrating **RESTful APIs** using **Node.js** and **Express.js**. I'm committed to clean code practices, performance optimization, and delivering great user experiences.
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Technical Skills
 
-### 🏠 Home Rental Application
-**Tech Stack**: Node.js, Express.js, MongoDB, React.js, Redux, SCSS  
-**Description**:  
-A full-stack web application featuring separate user and admin panels. Users can browse and apply for properties, while admins manage listings and user data.  
-[🔗 Live Demo](#) | [💻 GitHub Repo](#)  
-
-
----
-
-### 👥 Freelance Management System
-**Tech Stack**: Node.js, Express.js, MongoDB, React.js, Redux  
-**Description**:  
-Built a multi-role management system supporting freelancers, clients, and admins. Features include authentication, task management, and dashboard interfaces.  
-
+- **Frontend:** HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js, .NET (C#), Python (Basic), PHP
+- **Database:** MongoDB, SQL Server
+- **Tools & Other:** Git, GitHub, jQuery, AJAX
+- **Core Interests:** Data Structures & Algorithms, Web Development, OOPs
 
 ---
 
-### 🖱️ Hands-Free Mouse Control System
-**Tech Stack**: Python, OpenCV, MediaPipe, pyautogui  
-**Description**:  
-A gesture-controlled mouse system that allows users to operate a cursor using hand movements. Built using computer vision techniques to minimize physical interaction.  
-[🔗 Demo Video](#) | [💻 GitHub Repo](#)  
+## 🎓 Education
 
+**B.Tech in Agricultural Information Technology**  
+College of Agricultural Information Technology, Anand, Gujarat  
+_2022 – 2026_ | CGPA: 6.35
 
----
-
-## 🏆 Achievements & Certifications
-
-- 🧠 Completed *Introduction to MERN Stack* – Simplilearn  
-- 🛰️ ISRO's Course on *Geodata Processing using Python and Machine Learning*  
-- 🏐 Represented college as an Inter-College Volleyball Player
+**Higher Secondary (H.S.C) – PCB**  
+SKP School, Rajkot  
+_2020 – 2022_ | Percentage: 59.93%
 
 ---
 
-## 🎯 Areas of Interest
+## 💼 Projects
 
-- Data Structures & Algorithms  
-- Web Development  
-- Object-Oriented Programming (OOP)  
-- Problem Solving & Competitive Coding
+### 🔹 [Freelance Management System](https://github.com/YASH10122)
+**Tech Stack:** Node.js, Express.js, MongoDB, React.js, Redux  
+A complete freelancing platform with separate dashboards for **freelancers**, **clients**, and **admins**. Features include service listings, order management, user authentication, and real-time communication.
+
+### 🔹 [Home Rental Application](https://github.com/YASH10122)
+**Tech Stack:** Node.js, Express.js, MongoDB, React.js, Redux, SCSS  
+Developed an application to simplify house hunting and rental management. Includes **user** and **admin** dashboards with tools to manage listings, view applications, and perform CRUD operations.
+
+### 🔹 Hands-Free Mouse Control System
+**Tech Stack:** Python, OpenCV, MediaPipe, PyAutoGUI  
+Designed a vision-based hand gesture mouse control system to enable cursor movement and clicks without physical interaction—ideal for accessibility use cases.
+
+---
+
+## 📜 Certifications
+
+- **Introduction to MERN Stack** – Simplilearn  
+- **Geodata Processing using Python and ML** – ISRO
 
 ---
 
-## 🤝 Connect With Me
+## 🏅 Achievements
 
-Feel free to reach out or collaborate on projects!
-
-- 🔗 [GitHub](https://github.com/YASH10122)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yash-virani-6b50ba262)  
-- 📧 [Email](mailto:yashvirani8@gmail.com)  
-- 🌐 [Portfolio Website](https://yash-portfolio-swart.vercel.app)
+- Inter-College Volleyball Player  
+- Consistently working on open-source and full-stack projects to improve development and problem-solving skills
 
 ---
+
+> 📌 _"Always ready to build, break, and learn something new."_  

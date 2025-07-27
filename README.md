@@ -1,68 +1,73 @@
-# 👨‍💻 Yash M. Virani
-
-🚀 MERN Stack Developer | 🌐 Full-Stack Web Enthusiast | 🎯 Passionate Problem Solver  
-📍 Rajkot, Gujarat, India  
-📧 yashvirani8@gmail.com | 📱 +91 8200239346  
-🔗 [Portfolio Website](https://yash-portfolio-swart.vercel.app/) • [GitHub](https://github.com/YASH10122) • [LinkedIn](https://www.linkedin.com/in/yash-virani-6b50ba262)
+# YASH M. VIRANI
 
 ---
 
-## 🧠 About Me
+### PROFILE
 
-I’m a dedicated and detail-oriented developer skilled in building responsive, dynamic, and user-centric web applications using the **MERN Stack**. I specialize in **React.js** for crafting interactive UI components and have hands-on experience developing and integrating **RESTful APIs** using **Node.js** and **Express.js**. I'm committed to clean code practices, performance optimization, and delivering great user experiences.
+Proficient in building responsive, dynamic, and user-centric web applications using the **MERN stack**. Specialized in **React.js** for crafting interactive front-end interfaces. Experienced in developing and integrating **RESTful APIs**, and skilled in back-end technologies including **Node.js, Express.js, and MongoDB**. Committed to writing clean, scalable code and delivering high-performance solutions with a strong focus on user experience.
 
----
-
-## 🛠️ Technical Skills
-
-- **Frontend:** HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, React.js
-- **Backend:** Node.js, Express.js, .NET (C#), Python (Basic), PHP
-- **Database:** MongoDB, SQL Server
-- **Tools & Other:** Git, GitHub, jQuery, AJAX
-- **Core Interests:** Data Structures & Algorithms, Web Development, OOPs
+📧 Email: yashvirani8@gmail.com  
+📱 Mobile: +91 8200239346  
+🌐 Portfolio: [https://yash-portfolio-swart.vercel.app](https://yash-portfolio-swart.vercel.app)  
+🔗 GitHub: [YASH10122](https://github.com/YASH10122)  
+🔗 LinkedIn: [YASH VIRANI](https://www.linkedin.com/in/yash-virani-6b50ba262)
 
 ---
 
-## 🎓 Education
+### TECHNICAL KNOWLEDGE
 
-**B.Tech in Agricultural Information Technology**  
-College of Agricultural Information Technology, Anand, Gujarat  
-_2022 – 2026_ | CGPA: 6.35
+**Frontend:**  
+HTML5, CSS, Bootstrap, Tailwind, JavaScript, React
 
-**Higher Secondary (H.S.C) – PCB**  
-SKP School, Rajkot  
-_2020 – 2022_ | Percentage: 59.93%
+**Backend:**  
+Node.js, Express.js, .NET (C#), Python (Basic), PHP
 
----
+**Database:**  
+MongoDB, SQL Server
 
-## 💼 Projects
+**Other Tools:**  
+Git, GitHub, AJAX, jQuery
 
-### 🔹 [Freelance Management System](https://github.com/YASH10122)
-**Tech Stack:** Node.js, Express.js, MongoDB, React.js, Redux  
-A complete freelancing platform with separate dashboards for **freelancers**, **clients**, and **admins**. Features include service listings, order management, user authentication, and real-time communication.
-
-### 🔹 [Home Rental Application](https://github.com/YASH10122)
-**Tech Stack:** Node.js, Express.js, MongoDB, React.js, Redux, SCSS  
-Developed an application to simplify house hunting and rental management. Includes **user** and **admin** dashboards with tools to manage listings, view applications, and perform CRUD operations.
-
-### 🔹 Hands-Free Mouse Control System
-**Tech Stack:** Python, OpenCV, MediaPipe, PyAutoGUI  
-Designed a vision-based hand gesture mouse control system to enable cursor movement and clicks without physical interaction—ideal for accessibility use cases.
+**Area of Interest:**  
+Data Structures and Algorithms, Problem Solving, Web Development, OOPs
 
 ---
 
-## 📜 Certifications
+### EDUCATION
 
-- **Introduction to MERN Stack** – Simplilearn  
-- **Geodata Processing using Python and ML** – ISRO
+**COLLEGE OF AGRICULTURAL INFORMATION TECHNOLOGY**, Anand, Gujarat  
+_B.Tech in Agricultural Information Technology (2022 – 2026)_  
+**CGPA:** 6.35
 
----
-
-## 🏅 Achievements
-
-- Inter-College Volleyball Player  
-- Consistently working on open-source and full-stack projects to improve development and problem-solving skills
+**SKP SCHOOL**, Rajkot, Gujarat  
+_Higher Secondary (H.S.C) – PCB (2020 – 2022)_  
+**Percentage:** 59.93%
 
 ---
 
-> 📌 _"Always ready to build, break, and learn something new."_  
+### PROJECTS
+
+**Freelance Management System**  
+**Technology:** Node.js, Express.js, MongoDB, React.js, Redux  
+Developed a comprehensive Freelance Management System with separate panels for freelancers, clients, and admins. Gained experience in user authentication, dashboard design, and database integration.
+
+**Home Rental Application**  
+**Technology:** Node.js, Express.js, MongoDB, React.js, Redux, SCSS  
+Built an application with separate user and admin panels. Implemented interfaces for property search, rental application, and admin-side listing control.
+
+**Hands-Free Mouse Control System**  
+**Technology:** OpenCV, MediaPipe, PyAutoGUI  
+Developed a Python-based hands-free mouse system using computer vision. Controlled cursor and click operations through hand gestures.
+
+---
+
+### ACHIEVEMENTS AND CERTIFICATIONS
+
+- Certification in Introduction to MERN Stack – Simplilearn  
+- ISRO's Course: Geodata Processing using Python and Machine Learning  
+- Inter College Volleyball Player
+
+---
+
+![MERN Certificate](https://yash-portfolio-swart.vercel.app/MERN.png)  
+![ISRO Certificate](https://yash-portfolio-swart.vercel.app/isro.png)

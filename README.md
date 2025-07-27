@@ -85,9 +85,10 @@ A gesture-controlled system using computer vision.
 
 ## 📜 Certifications & Achievements
 
-- ✅ **MERN Stack Certification** – Simplilearn  
-- ✅ **Geodata Processing using Python & Machine Learning** – ISRO  
+- ✅ [**MERN Stack Certification** – Simplilearn](https://yash-portfolio-swart.vercel.app/MERN.png)
+- ✅ [**Geodata Processing using Python & Machine Learning** – ISRO](https://yash-portfolio-swart.vercel.app/isro.png)
 - 🏆 Inter College **Volleyball Player**
+
 
 ---
 

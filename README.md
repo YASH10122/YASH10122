@@ -12,75 +12,84 @@
 
 ## 🧑‍💻 About Me
 
-🔹 B.Tech in Agricultural Information Technology (AIT)  
-🔹 Passionate MERN Stack Developer skilled in building responsive, scalable, and user-friendly web applications  
-🔹 Specialized in **React.js** for creating intuitive front-end interfaces  
-🔹 Experienced in **Node.js**, **Express**, and **MongoDB** for efficient back-end development  
-🔹 Interested in **Data Structures**, **Problem Solving**, and **OOPs**
+- 🎓 B.Tech in Agricultural Information Technology (AIT)  
+- 💻 MERN Stack Developer skilled in building responsive, scalable, and user-friendly web applications  
+- ⚛️ Specialized in **React.js** for crafting interactive UIs  
+- 🔧 Experienced in **Node.js**, **Express**, and **MongoDB** for backend development  
+- 🧠 Passionate about **Data Structures**, **Problem Solving**, and **OOPs Concepts**
 
 ---
 
 ## 🚀 My Projects
 
 ### 🌐 [Freelancing Management System](https://github.com/YASH10122)
-A full-fledged platform with dedicated panels for **freelancers**, **clients**, and **admins**.
+A full-stack platform with user roles: freelancer, client, and admin.
 
 - **Tech Stack:** React, Node.js, Express, MongoDB, Redux
-- Features: Role-based dashboards, service management, real-time updates, user authentication
+- 💡 Features: Role-based access, service handling, order lifecycle, and secure login
 
 ---
 
 ### 🏘️ Home Rental Application
-Simplifies rental workflows with dual panels for users and admins.
+Dual-panel rental management for users and administrators.
 
 - **Tech Stack:** React, Node.js, Express, MongoDB, SCSS, Redux
-- Highlights: Property listings, rental application UI, admin controls
+- 💡 Highlights: Property search UI, admin controls, and listing dashboard
 
 ---
 
 ### 🖱️ Hands-Free Mouse Control System
-Gesture-based cursor control using computer vision.
+A gesture-controlled system using computer vision.
 
 - **Tech Stack:** Python, OpenCV, MediaPipe, PyAutoGUI
-- Highlights: Cursor control via hand gestures – no hardware required
+- 💡 Highlights: Control mouse with hand gestures — no hardware required
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack & Tools
 
-### Frontend  
-`HTML5` `CSS` `Bootstrap` `Tailwind` `JavaScript` `React.js`
+### 🚀 Frontend
+<img src="https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap" />
 
-### Backend  
-`Node.js` `Express.js` `.NET (C#)` `PHP` `Python (Basic)`
+### ⚙️ Backend
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express" />
+<img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet" />
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python" />
 
-### Database  
-`MongoDB` `SQL Server`
+### 🗄️ Database
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server" />
 
-### Tools  
-`Git` `GitHub` `AJAX` `jQuery`
+### 🛠 Tools & Utilities
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/-AJAX-00599C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery" />
 
 ---
 
 ## 📜 Certifications & Achievements
 
-- 🎓 **MERN Stack Introduction** – Simplilearn  
-- 🛰️ **GeoData Processing using Python & ML** – ISRO  
-- 🏐 Inter College **Volleyball Player**
-
-![Certifications](https://yash-portfolio-swart.vercel.app/MERN.png)
-![ISRO Course](https://yash-portfolio-swart.vercel.app/isro.png)
+- ✅ **MERN Stack Certification** – Simplilearn  
+- ✅ **Geodata Processing using Python & Machine Learning** – ISRO  
+- 🏆 Inter College **Volleyball Player**
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
-- **📧 Email:** yashvirani8@gmail.com  
-- **🌐 Portfolio:** [yash-portfolio-swart.vercel.app](https://yash-portfolio-swart.vercel.app)  
-- **💼 LinkedIn:** [linkedin.com/in/yash-virani-6b50ba262](https://www.linkedin.com/in/yash-virani-6b50ba262)  
-- **💻 GitHub:** [github.com/YASH10122](https://github.com/YASH10122)
+- 📧 **Email:** yashvirani8@gmail.com  
+- 🌐 **Portfolio:** [yash-portfolio-swart.vercel.app](https://yash-portfolio-swart.vercel.app)  
+- 💼 **LinkedIn:** [linkedin.com/in/yash-virani-6b50ba262](https://www.linkedin.com/in/yash-virani-6b50ba262)  
+- 💻 **GitHub:** [github.com/YASH10122](https://github.com/YASH10122)
 
 ---
 
 > 💡 _“Code with purpose, learn with curiosity, and grow with consistency.”_
-

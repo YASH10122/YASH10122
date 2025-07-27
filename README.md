@@ -1,73 +1,86 @@
-# YASH M. VIRANI
+<h1 align="center">Hi 👋, I'm Yash Virani</h1>
+<h3 align="center">MERN Stack Developer | Passionate Problem Solver | Tech Explorer</h3>
+
+<p align="center">
+  <a href="https://github.com/YASH10122" target="_blank"><img src="https://img.shields.io/github/followers/YASH10122?label=GitHub&style=social" /></a>
+  <a href="https://www.linkedin.com/in/yash-virani-6b50ba262" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:yashvirani8@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://yash-portfolio-swart.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel" /></a>
+</p>
 
 ---
 
-### PROFILE
+## 🧑‍💻 About Me
 
-Proficient in building responsive, dynamic, and user-centric web applications using the **MERN stack**. Specialized in **React.js** for crafting interactive front-end interfaces. Experienced in developing and integrating **RESTful APIs**, and skilled in back-end technologies including **Node.js, Express.js, and MongoDB**. Committed to writing clean, scalable code and delivering high-performance solutions with a strong focus on user experience.
-
-📧 Email: yashvirani8@gmail.com  
-📱 Mobile: +91 8200239346  
-🌐 Portfolio: [https://yash-portfolio-swart.vercel.app](https://yash-portfolio-swart.vercel.app)  
-🔗 GitHub: [YASH10122](https://github.com/YASH10122)  
-🔗 LinkedIn: [YASH VIRANI](https://www.linkedin.com/in/yash-virani-6b50ba262)
+🔹 B.Tech in Agricultural Information Technology (AIT)  
+🔹 Passionate MERN Stack Developer skilled in building responsive, scalable, and user-friendly web applications  
+🔹 Specialized in **React.js** for creating intuitive front-end interfaces  
+🔹 Experienced in **Node.js**, **Express**, and **MongoDB** for efficient back-end development  
+🔹 Interested in **Data Structures**, **Problem Solving**, and **OOPs**
 
 ---
 
-### TECHNICAL KNOWLEDGE
+## 🚀 My Projects
 
-**Frontend:**  
-HTML5, CSS, Bootstrap, Tailwind, JavaScript, React
+### 🌐 [Freelancing Management System](https://github.com/YASH10122)
+A full-fledged platform with dedicated panels for **freelancers**, **clients**, and **admins**.
 
-**Backend:**  
-Node.js, Express.js, .NET (C#), Python (Basic), PHP
-
-**Database:**  
-MongoDB, SQL Server
-
-**Other Tools:**  
-Git, GitHub, AJAX, jQuery
-
-**Area of Interest:**  
-Data Structures and Algorithms, Problem Solving, Web Development, OOPs
+- **Tech Stack:** React, Node.js, Express, MongoDB, Redux
+- Features: Role-based dashboards, service management, real-time updates, user authentication
 
 ---
 
-### EDUCATION
+### 🏘️ Home Rental Application
+Simplifies rental workflows with dual panels for users and admins.
 
-**COLLEGE OF AGRICULTURAL INFORMATION TECHNOLOGY**, Anand, Gujarat  
-_B.Tech in Agricultural Information Technology (2022 – 2026)_  
-**CGPA:** 6.35
-
-**SKP SCHOOL**, Rajkot, Gujarat  
-_Higher Secondary (H.S.C) – PCB (2020 – 2022)_  
-**Percentage:** 59.93%
+- **Tech Stack:** React, Node.js, Express, MongoDB, SCSS, Redux
+- Highlights: Property listings, rental application UI, admin controls
 
 ---
 
-### PROJECTS
+### 🖱️ Hands-Free Mouse Control System
+Gesture-based cursor control using computer vision.
 
-**Freelance Management System**  
-**Technology:** Node.js, Express.js, MongoDB, React.js, Redux  
-Developed a comprehensive Freelance Management System with separate panels for freelancers, clients, and admins. Gained experience in user authentication, dashboard design, and database integration.
-
-**Home Rental Application**  
-**Technology:** Node.js, Express.js, MongoDB, React.js, Redux, SCSS  
-Built an application with separate user and admin panels. Implemented interfaces for property search, rental application, and admin-side listing control.
-
-**Hands-Free Mouse Control System**  
-**Technology:** OpenCV, MediaPipe, PyAutoGUI  
-Developed a Python-based hands-free mouse system using computer vision. Controlled cursor and click operations through hand gestures.
+- **Tech Stack:** Python, OpenCV, MediaPipe, PyAutoGUI
+- Highlights: Cursor control via hand gestures – no hardware required
 
 ---
 
-### ACHIEVEMENTS AND CERTIFICATIONS
+## 🛠️ Skills
 
-- Certification in Introduction to MERN Stack – Simplilearn  
-- ISRO's Course: Geodata Processing using Python and Machine Learning  
-- Inter College Volleyball Player
+### Frontend  
+`HTML5` `CSS` `Bootstrap` `Tailwind` `JavaScript` `React.js`
+
+### Backend  
+`Node.js` `Express.js` `.NET (C#)` `PHP` `Python (Basic)`
+
+### Database  
+`MongoDB` `SQL Server`
+
+### Tools  
+`Git` `GitHub` `AJAX` `jQuery`
 
 ---
 
-![MERN Certificate](https://yash-portfolio-swart.vercel.app/MERN.png)  
-![ISRO Certificate](https://yash-portfolio-swart.vercel.app/isro.png)
+## 📜 Certifications & Achievements
+
+- 🎓 **MERN Stack Introduction** – Simplilearn  
+- 🛰️ **GeoData Processing using Python & ML** – ISRO  
+- 🏐 Inter College **Volleyball Player**
+
+![Certifications](https://yash-portfolio-swart.vercel.app/MERN.png)
+![ISRO Course](https://yash-portfolio-swart.vercel.app/isro.png)
+
+---
+
+## 📫 Connect With Me
+
+- **📧 Email:** yashvirani8@gmail.com  
+- **🌐 Portfolio:** [yash-portfolio-swart.vercel.app](https://yash-portfolio-swart.vercel.app)  
+- **💼 LinkedIn:** [linkedin.com/in/yash-virani-6b50ba262](https://www.linkedin.com/in/yash-virani-6b50ba262)  
+- **💻 GitHub:** [github.com/YASH10122](https://github.com/YASH10122)
+
+---
+
+> 💡 _“Code with purpose, learn with curiosity, and grow with consistency.”_
+

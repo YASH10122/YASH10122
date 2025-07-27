@@ -33,7 +33,7 @@ With a strong foundation in front-end and back-end technologies, I love solving 
 **Description**:  
 A full-stack web application featuring separate user and admin panels. Users can browse and apply for properties, while admins manage listings and user data.  
 [🔗 Live Demo](#) | [💻 GitHub Repo](#)  
-![Home Rental Screenshot](https://yash-portfolio-swart.vercel.app/MERN.png)
+
 
 ---
 
@@ -41,7 +41,7 @@ A full-stack web application featuring separate user and admin panels. Users can
 **Tech Stack**: Node.js, Express.js, MongoDB, React.js, Redux  
 **Description**:  
 Built a multi-role management system supporting freelancers, clients, and admins. Features include authentication, task management, and dashboard interfaces.  
-[🔗 Live Demo](#) | [💻 GitHub Repo](#)
+
 
 ---
 
@@ -50,7 +50,7 @@ Built a multi-role management system supporting freelancers, clients, and admins
 **Description**:  
 A gesture-controlled mouse system that allows users to operate a cursor using hand movements. Built using computer vision techniques to minimize physical interaction.  
 [🔗 Demo Video](#) | [💻 GitHub Repo](#)  
-![ISRO Certificate](https://yash-portfolio-swart.vercel.app/isro.png)
+
 
 ---
 

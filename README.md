@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 💻🤵 About Me
 
 - 🎓 B.Tech in Agricultural Information Technology (AIT)  
 - 💻 MERN Stack Developer skilled in building responsive, scalable, and user-friendly web applications  

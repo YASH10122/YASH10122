@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | Passionate Problem Solver | Tech Explorer</h3>
 
 <p align="center">
-  <a href="https://github.com/YASH10122" target="_blank"><img src="https://img.shields.io/github/followers/YASH10122?label=GitHub&style=social" />1500</a>
+  <a href="https://github.com/YASH10122" target="_blank"><img src="https://img.shields.io/github/followers/YASH10122?label=GitHub&style=social" /></a>
   <a href="https://www.linkedin.com/in/yash-virani-6b50ba262" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:yashvirani8@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://yash-portfolio-swart.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel" /></a>
